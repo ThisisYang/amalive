@@ -1,0 +1,2 @@
+# amalive
+practice go
